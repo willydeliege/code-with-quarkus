@@ -51,6 +51,6 @@ If you want to learn more about building native executables, please consult http
 
 ### RESTEasy JAX-RS
 
-Easily start your RESTful Web Services
+Easily start your RESTful Web Services test
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
